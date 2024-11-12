@@ -1,0 +1,2 @@
+git rm f1.txt -r
+to remove sinlge file
